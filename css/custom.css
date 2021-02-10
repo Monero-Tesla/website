@@ -1192,13 +1192,13 @@ select:-moz-placeholder{
   font-family: 'Poppins';
   font-style: normal;
   font-weight: 300;
-  src: url('../fonts/poppins-v15-latin-300.eot'); 
+  src: url('../font/poppins-v15-latin-300.eot'); 
   src: local(''),
-       url('../fonts/poppins-v15-latin-300.eot?#iefix') format('embedded-opentype'), 
-       url('../fonts/poppins-v15-latin-300.woff2') format('woff2'),
-       url('../fonts/poppins-v15-latin-300.woff') format('woff'), 
-       url('../fonts/poppins-v15-latin-300.ttf') format('truetype'), 
-       url('../fonts/poppins-v15-latin-300.svg#Poppins') format('svg'); 
+       url('../font/poppins-v15-latin-300.eot?#iefix') format('embedded-opentype'), 
+       url('../font/poppins-v15-latin-300.woff2') format('woff2'),
+       url('../font/poppins-v15-latin-300.woff') format('woff'), 
+       url('../font/poppins-v15-latin-300.ttf') format('truetype'), 
+       url('../font/poppins-v15-latin-300.svg#Poppins') format('svg'); 
 }
 
 /* poppins-regular - latin */
@@ -1206,13 +1206,13 @@ select:-moz-placeholder{
   font-family: 'Poppins';
   font-style: normal;
   font-weight: 400;
-  src: url('../fonts/poppins-v15-latin-regular.eot');
+  src: url('../font/poppins-v15-latin-regular.eot');
   src: local(''),
-       url('../fonts/poppins-v15-latin-regular.eot?#iefix') format('embedded-opentype'), 
-       url('../fonts/poppins-v15-latin-regular.woff2') format('woff2'),
-       url('../fonts/poppins-v15-latin-regular.woff') format('woff'), 
-       url('../fonts/poppins-v15-latin-regular.ttf') format('truetype'),
-       url('../fonts/poppins-v15-latin-regular.svg#Poppins') format('svg'); 
+       url('../font/poppins-v15-latin-regular.eot?#iefix') format('embedded-opentype'), 
+       url('../font/poppins-v15-latin-regular.woff2') format('woff2'),
+       url('../font/poppins-v15-latin-regular.woff') format('woff'), 
+       url('../font/poppins-v15-latin-regular.ttf') format('truetype'),
+       url('../font/poppins-v15-latin-regular.svg#Poppins') format('svg'); 
 }
 
 /* poppins-700 - latin */
@@ -1220,13 +1220,13 @@ select:-moz-placeholder{
   font-family: 'Poppins';
   font-style: normal;
   font-weight: 700;
-  src: url('../fonts/poppins-v15-latin-700.eot'); 
+  src: url('../font/poppins-v15-latin-700.eot'); 
   src: local(''),
-       url('../fonts/poppins-v15-latin-700.eot?#iefix') format('embedded-opentype'), 
-       url('../fonts/poppins-v15-latin-700.woff2') format('woff2'), 
-       url('../fonts/poppins-v15-latin-700.woff') format('woff'), 
-       url('../fonts/poppins-v15-latin-700.ttf') format('truetype'), 
-       url('../fonts/poppins-v15-latin-700.svg#Poppins') format('svg'); 
+       url('../font/poppins-v15-latin-700.eot?#iefix') format('embedded-opentype'), 
+       url('../font/poppins-v15-latin-700.woff2') format('woff2'), 
+       url('../font/poppins-v15-latin-700.woff') format('woff'), 
+       url('../font/poppins-v15-latin-700.ttf') format('truetype'), 
+       url('../font/poppins-v15-latin-700.svg#Poppins') format('svg'); 
 }
 
 /****GENERAL****/
