@@ -1796,7 +1796,7 @@ img.logo {
     padding-left: 4rem;
 }
 
-#about .cp-currency p {
+#about .cp-currency p, #about .cp-currency p a {
     font-weight: 700;
     color: #0073fc;
     color: #ff3b9a;
